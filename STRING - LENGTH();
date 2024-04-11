@@ -3,6 +3,7 @@ FAÇA UM PROGRAMA EM JAVA QUE LÊ UMA PALAVRA E INFORME O TAMANHO DA MESMA.
 USUARIO VAI DIGITAR A PALAVRA QUE QUISER, O ALGORITIMO IRA FAZER A CONTAGEM(TAMANHO).
 
 EX: MORGANCASTRO - TAMANHO(12)
+
 -------------------------------------------------------------------------------
 
 import java.util.Scanner;
