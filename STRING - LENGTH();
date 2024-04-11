@@ -1,0 +1,23 @@
+FAÇA UM PROGRAMA EM JAVA QUE LÊ UMA PALAVRA E INFORME O TAMANHO DA MESMA.
+
+USUARIO VAI DIGITAR A PALAVRA QUE QUISER, O ALGORITIMO IRA FAZER A CONTAGEM(TAMANHO).
+
+EX: MORGANCASTRO - TAMANHO(12)
+-------------------------------------------------------------------------------
+
+import java.util.Scanner;
+public class String_Teste
+{
+    public static void main(String []args){
+        
+        Scanner in = new Scanner(System.in);
+        
+        String Palavra;
+        
+        System.out.println("DIGITE UMA PALAVRA: ");
+        Palavra = in.next();
+        
+        System.out.println("O TAMANHO DA PALAVRA É: " + Palavra.length());
+    }
+    
+}
